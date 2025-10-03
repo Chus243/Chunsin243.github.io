@@ -1,0 +1,42 @@
+form{
+    margin: auto;
+    width: 400px;
+    padding: 1em;
+    border: 1px solid #ccc;
+    border-radius: 1em;
+    background-color: #F1B842;
+}
+.Cajas{
+    border: 2px solid #273950;
+    background: #ccc;
+    margin-bottom: 30px;
+    line-height: 26px;
+}
+label {
+    /* Tamaño y alineación uniforme */
+    display: inline-block;
+    width: 250px;
+    text-align: right;
+    font-style: oblique;
+    color: #000;
+  }
+
+  textarea{
+    vertical-align: auto;
+    height: 5em;
+    border: 2px solid #273950;
+    background: #ccc;
+  }
+
+.Radio{
+    border: 2px solid #273950;
+    background: #ccc;
+    margin-bottom: 30px;
+    line-height: 26px;
+  }
+.Checkbox{
+    border: 2px solid #273950;
+    background: #ccc;
+    margin-bottom: 30px;
+    line-height: 26px;
+}
